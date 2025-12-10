@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Himanshu Singh and I'm a BlockChain Developer & Flutter Full Stack Developer, from Varanasi, UP, India</h2>
+<h2 align="left">Hi 👋! My name is Himanshu Singh and I'm a Backend, BlockChain & Flutter Full Stack Developer, from Varanasi, UP, India</h2>
 
 ###
 
